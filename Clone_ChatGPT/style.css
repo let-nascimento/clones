@@ -1,0 +1,15 @@
+colors{
+    color: white;
+    color: black;
+    color: #376C41;
+    color: #4B9559;
+    color: #617073;
+}
+
+body {
+    background-color: #376C41;
+}
+
+.container{
+    display:flex;
+}
